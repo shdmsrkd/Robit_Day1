@@ -39,5 +39,11 @@
     <ClCompile Include="assignment6.c">
       <Filter>소스 파일\assignment</Filter>
     </ClCompile>
+    <ClCompile Include="assignment3.c">
+      <Filter>소스 파일\assignment</Filter>
+    </ClCompile>
+    <ClCompile Include="assignment7.c">
+      <Filter>소스 파일\assignment</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

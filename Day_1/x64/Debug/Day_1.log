@@ -1,3 +1,2 @@
-﻿  assignment1.c
-C:\Users\Eungang\Desktop\Robit\Day_1\Day_1\assignment1.c(19,1): error C4700: 초기화되지 않은 'max' 지역 변수를 사용했습니다.
-C:\Users\Eungang\Desktop\Robit\Day_1\Day_1\assignment1.c(23,1): error C4700: 초기화되지 않은 'min' 지역 변수를 사용했습니다.
+﻿  assignment7.c
+  Day_1.vcxproj -> C:\Users\Eungang\Desktop\Robit\Day_1\x64\Debug\Day_1.exe
